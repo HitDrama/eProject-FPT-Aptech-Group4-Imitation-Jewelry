@@ -22,7 +22,7 @@
 
   <br  /><a  href="https://e-project-fpt-aptech-group4-imitation-jewelry.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://www.youtube.com/" target="_blank">Video</a>
 
-<img  src="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/assets/138606484/3650f777-9c33-4d76-b7e7-3138aaf4b013"  alt="Logo"  width="768px"  height="auto">
+<img  src="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/assets/138606484/470fde04-0652-4594-ad6c-db3971a3380e"  alt="Logo"  width="768px"  height="auto">
 
   ### Built With
   Below is the languages/libraries we used for this project:
