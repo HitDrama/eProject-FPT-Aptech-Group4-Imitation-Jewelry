@@ -31,7 +31,7 @@
   
   
 
-[JSX]&emsp;[CSS3] &emsp; [JS]&emsp; [JSON]&emsp; [REACT]
+[JSX]&emsp;[CSS3] &emsp; [JS]&emsp; [JSON]&emsp; [REACT]&emsp; [BOOTSTRAP]
 <div  align="left">
 
 
