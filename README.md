@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+<a  name="readme-top"></a>
+  
+<!-- DURABLE FURNITURES -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br  />
 
-## Available Scripts
+<div  align="center">
 
-In the project directory, you can run:
 
-### `npm start`
+<img  src="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/assets/138606484/a3998535-7be9-4f74-9b6a-add73e381967"  alt="Logo"  width="768px"  height="auto">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  
 
-### `npm test`
+<h3  align="center">DE BEERS</h3>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ De Beers Group is the world’s leading diamond company, with expertise in diamond exploration, mining, grading, marketing and retail. Together with our joint venture partners, we employ more than 20,000 people across the global diamond pipeline, with many of these people in our source countries of Botswana, Canada, Namibia and South Africa. Through our own stores and our partner jeweler locations, our beautiful diamonds and jewellery designs bring joy and meaning to lovers of diamonds all around the world.
+  <br  />
+  <a  href="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry"><strong>Explore the source »</strong></a>
+  <a  href="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/tree/main/document" target="_blank"><strong>Explore the documents »</strong></a>
 
-### `npm run build`
+  <br  /><a  href="https://e-project-fpt-aptech-group4-imitation-jewelry-355zl8f96.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://www.youtube.com/" target="_blank">Video</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img  src="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/assets/138606484/3650f777-9c33-4d76-b7e7-3138aaf4b013"  alt="Logo"  width="768px"  height="auto">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  ### Built With
+  Below is the languages/libraries we used for this project:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+  
+  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[JSX]&emsp;[CSS3] &emsp; [JS]&emsp; [JSON]&emsp; [REACT]
+<div  align="left">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  
+### Features </br>
+<ol>
+<li>
+The home page must describe the keywords or highlight of the shop along
+with all navigation link defined.
+</br>
+</li>
+<li>
+The product must be categorized as per the “Brand”. </br>
+</li>
+<li>
+It should be followed by sub-category with the type (Original, Semi Precious,
+and Artificial).</br>
+</li>
+<li>
+Proper description of the product along with the image must be added in the
+website.</br>
+</li>
+<li>
+Comparison of the product must be included in the website. (like comparison
+between product designing same but one will be semi-Precious and other
+Artificial and so on).</br>
+</li>
+<li>
+The “Contact Us” page should have the Address of the Company and the mail
+address which when clicked will invoke the local mail client from where they
+can send an email. Address of the Company should be displayed using
+GeoLocation API (eg. GoogleMaps).</br>
+</li>
+  <li>
+About Us</br>
+</li>
+<li>
+Feedback form</br>
+</li>
+<li>
+Gallery section should be added.</br>
+</li>
+<li>
+Color combination must be uniform throughout the project.</br>
+</li>
+  <li>
+Navigation must be smooth.</br>
+</li>
+</ol>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ ## Members of group
+ ### Leader : Dang To Nhan `Student1501054`
+#### Members:
+Dương Văn Mẫn `Student1501157` </br>
+Nguyễn Hoàng Anh `Student1501270` </br>
+Phan Trần Đăng Chí `Student1501058` </br>
+Nguyễn Hoàng Minh Ngọc  `Student1501214` </br>
