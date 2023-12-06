@@ -7,7 +7,7 @@
 <div  align="center">
 
 
-<img  src="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/assets/138606484/8dc8d06b-4aa7-4ed2-9c91-cc9334ee6000"  alt="Logo"  width="768px"  height="auto">
+<img  src="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/assets/138606484/641d230a-b30a-470a-9cb1-ef3ad7d4ce60"  alt="Logo"  width="768px"  height="auto">
 
 </a>
 
